@@ -1,2 +1,2 @@
 Hello Everyone,
-These are some of the basic projects i have made.
+These are some of the projects i have made.
