@@ -18,7 +18,7 @@ def password():
     print(f"What password do you want {name}:")
     print("Enter the number!")
     ch=int(input("1.computer,2.lab,3.pesuacademy"))
-    passwords=[ "041269",8861259602,"pukku123456"]
+    passwords=[ "0000",0000,"LeBron"]
     if(ch==1):
        print(passwords[0])
     elif(ch=="2"):
